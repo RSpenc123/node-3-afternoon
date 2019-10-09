@@ -1,0 +1,1 @@
+delete from product where user_id= $1
